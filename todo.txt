@@ -11,17 +11,7 @@ call function with unpacking lists and dicts
 pure functions (no side effects)  vs.  modifiers (changes visible to caller)
 why is something in standard library vs. core
 
-6)
-define iterable in for section
-introduce zip in for section
-break
-continue
-change local_search() function in Newton's Method cas to use for else
-while True
-
-7)
-add str.replace()
-
+new)
 new notebook on exceptions
 raising exceptions
 handling exceptions
